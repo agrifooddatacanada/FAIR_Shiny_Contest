@@ -4,9 +4,7 @@ author: "A. Correndo, L. Alcantara, P. McMillan, M. Edwards"
 date: "2024-08-22"
 ---
 
-# 🌟 Making it FAIR with Shiny Contest
-
-## 📊 Shiny App Evaluation Rubric
+# 🌟📊
 
 ### A. Scoring
 
