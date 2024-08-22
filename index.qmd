@@ -1,0 +1,11 @@
+---
+title: ""
+---
+
+# Announcing the First Agri-food Data Canada Shiny App Contest: Making it FAIR with Shiny
+
+Interested in developing your coding skills, developing an accessible application to show off your research, or have an idea for a creative way to allow people to interact with data? Making it FAIR with Shiny, the first Shiny app contest hosted by the Agri-food Data Canada, aims to give students the opportunity to show off their ideas for ways to make data more accessible using Shiny under the principles of FAIR.
+
+What is FAIR? The principles of FAIR data are centered around improving the Findability, Accessibility, Interoperability, and Reuse of data. By making data FAIR, you’re improving the discoverability of your research, the accessibility of it to other researchers, and increasing the potential impact of the data.
+
+What is Shiny? Shiny is a powerful framework for developing and launching web applications in the R programming language. It’s used worldwide by researchers, institutions, government, and private industry worldwide. Learning or improving your Shiny skills is an excellent way to bolster your CV.

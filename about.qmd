@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Registration opens \_\_\_ and will close at midnight on November 30th. Final submissions are due January 31st. Teams may consist of a maximum of 3 members (Have we decided this?).
+
+Who is the competition open to? Students attending the University of Guelph in any area of study, both at the undergraduate or graduate level. In short, every student is welcome to participate.
+
+What are the rules and contest guidelines? The app must increase the FAIRness of data, what data you use and how you approach the problem of increasing FAIRness is entirely up to you. We want you to be creative in how you approach this problem, but to get an idea of where to start here are some past winners of the Posit Shiny Contest: Third Annual Posit Shiny Competition, Second Annual Posit Shiny Competition, and First Annual Posit Shiny Competition.

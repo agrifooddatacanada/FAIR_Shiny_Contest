@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Announcing the First Agri-food Data Canada Shiny App Contest: Making it FAIR with Shiny",
+    "section": "",
+    "text": "Announcing the First Agri-food Data Canada Shiny App Contest: Making it FAIR with Shiny\nInterested in developing your coding skills, developing an accessible application to show off your research, or have an idea for a creative way to allow people to interact with data? Making it FAIR with Shiny, the first Shiny app contest hosted by the Agri-food Data Canada, aims to give students the opportunity to show off their ideas for ways to make data more accessible using Shiny under the principles of FAIR.\nWhat is FAIR? The principles of FAIR data are centered around improving the Findability, Accessibility, Interoperability, and Reuse of data. By making data FAIR, you’re improving the discoverability of your research, the accessibility of it to other researchers, and increasing the potential impact of the data.\nWhat is Shiny? Shiny is a powerful framework for developing and launching web applications in the R programming language. It’s used worldwide by researchers, institutions, government, and private industry worldwide. Learning or improving your Shiny skills is an excellent way to bolster your CV."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Registration opens ___ and will close at midnight on November 30th. Final submissions are due January 31st. Teams may consist of a maximum of 3 members (Have we decided this?).\nWho is the competition open to? Students attending the University of Guelph in any area of study, both at the undergraduate or graduate level. In short, every student is welcome to participate.\nWhat are the rules and contest guidelines? The app must increase the FAIRness of data, what data you use and how you approach the problem of increasing FAIRness is entirely up to you. We want you to be creative in how you approach this problem, but to get an idea of where to start here are some past winners of the Posit Shiny Contest: Third Annual Posit Shiny Competition, Second Annual Posit Shiny Competition, and First Annual Posit Shiny Competition."
+  },
+  {
+    "objectID": "index.html#announcing-the-first-agri-food-data-canada-shiny-app-contest-making-it-fair-with-shiny",
+    "href": "index.html#announcing-the-first-agri-food-data-canada-shiny-app-contest-making-it-fair-with-shiny",
+    "title": "Making it FAIR with Shiny",
+    "section": "",
+    "text": "Interested in developing your coding skills, developing an accessible application to show off your research, or have an idea for a creative way to allow people to interact with data? Making it FAIR with Shiny, the first Shiny app contest hosted by the Agri-food Data Canada, aims to give students the opportunity to show off their ideas for ways to make data more accessible using Shiny under the principles of FAIR.\nWhat is FAIR? The principles of FAIR data are centered around improving the Findability, Accessibility, Interoperability, and Reuse of data. By making data FAIR, you’re improving the discoverability of your research, the accessibility of it to other researchers, and increasing the potential impact of the data.\nWhat is Shiny? Shiny is a powerful framework for developing and launching web applications in the R programming language. It’s used worldwide by researchers, institutions, government, and private industry worldwide. Learning or improving your Shiny skills is an excellent way to bolster your CV."
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "About",
+    "section": "",
+    "text": "Registration opens ___ and will close at midnight on November 30th. Final submissions are due January 31st. Teams may consist of a maximum of 3 members (Have we decided this?).\nWho is the competition open to? Students attending the University of Guelph in any area of study, both at the undergraduate or graduate level. In short, every student is welcome to participate.\nWhat are the rules and contest guidelines? The app must increase the FAIRness of data, what data you use and how you approach the problem of increasing FAIRness is entirely up to you. We want you to be creative in how you approach this problem, but to get an idea of where to start here are some past winners of the Posit Shiny Contest: Third Annual Posit Shiny Competition, Second Annual Posit Shiny Competition, and First Annual Posit Shiny Competition."
+  },
+  {
+    "objectID": "prizes.html",
+    "href": "prizes.html",
+    "title": "Prizes",
+    "section": "",
+    "text": "Prizes go here!"
+  },
+  {
+    "objectID": "prizes.html#prizes",
+    "href": "prizes.html#prizes",
+    "title": "Prizes",
+    "section": "",
+    "text": "Prizes go here!"
+  },
+  {
+    "objectID": "register.html",
+    "href": "register.html",
+    "title": "Register",
+    "section": "",
+    "text": "Registration button goes here!"
+  }
+]
