@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Making it FAIR with Shiny"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - prizes.qmd
+      - register.qmd
+    right:
+      - icon: github
+        href: https://github.com/agrifooddatacanada/FAIR_Shiny_Contest
+        target: _blank
+        aria-label: GitHub
+
+html:
+  theme: yeti
+
+editor: visual
+
