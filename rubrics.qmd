@@ -1,0 +1,65 @@
+---
+title: "Shiny App Evaluation Rubric"
+author: "A. Correndo, L. Alcantara, P. McMillan, M. Edwards"
+date: "2024-08-22"
+---
+
+# 🌟 Making it FAIR with Shiny Contest
+
+## 📊 Shiny App Evaluation Rubric
+
+### A. Scoring
+
+#### 1. Technical Merit (35%) 🛠️
+
+- **0-1**: ❌ Undefined or poorly defined goals, unclear audience, ineffective design, overly simple or complex, unintuitive UI, unclear visualizations.
+- **2-3**: ⚠️ Somewhat clear goals, identifiable audience, somewhat effective design, appropriate complexity, mostly intuitive UI, generally clear visualizations.
+- **4-5**: ✅ Clearly defined goals, well-identified audience, effective design, appropriate complexity, intuitive UI, clear and informative visualizations.
+
+#### 2. Reproducibility (35%) 🔄
+
+- **0-1**: ❌ Data not available or not FAIR, no documentation, source code poorly documented and steps difficult to understand.
+- **2-3**: ⚠️ Data partially available or somewhat FAIR, basic documentation, source code available but fairly documented, notes somehow difficult to follow.
+- **4-5**: ✅ Data fully available and FAIR, comprehensive documentation, well-documented source code available, notes clear and steps easy to follow.
+
+#### 3. Artistic Design (30%) 🎨
+
+- **0-1**: ❌ UI too busy or too simple, not visually appealing.
+- **2-3**: ⚠️ UI somewhat appropriate, moderately visually appealing.
+- **4-5**: ✅ UI well-suited to the audience, highly visually appealing.
+
+Each category should be scored independently, and the final evaluation should consider the weighed score across all categories to determine the overall effectiveness and quality of the Shiny app.
+
+### B. Components Explanation
+
+#### 1. Technical Merit 🛠️
+
+**Goal and Audience**
+
+- **Clarity of Purpose**: Is the main goal of the app clearly defined? 🎯
+- **Target Audience**: Is the target audience identified and appropriately addressed? 👥
+
+**Design and Functionality**
+
+- **Effectiveness of Design**: Does the design effectively accomplish the app’s goals? 🎨
+- **Complexity**: Is the app appropriately complex for its purpose (neither too simple nor unnecessarily complicated)? ⚙️
+- **User Interface (UI)**: Is the UI intuitive and user-friendly? 🖥️
+- **Visualization**: Are the visualizations clear, informative, and relevant to the app’s goals? 📊
+
+#### 2. Reproducibility 🔄
+
+**Data Availability**
+
+- **FAIR Data Principles**: Is the data findable, accessible, interoperable, and reusable (FAIR)? 🔍
+
+**Documentation and Transparency**
+
+- **Documentation**: Is there a comprehensive documentation page or tab that explains the app’s functionalities and usage? 📄
+- **Source Code Availability**: Is the source code available (e.g., on GitHub) and well-documented? 💻
+
+#### 3. Artistic Design 🎨
+
+**Visual Appeal**
+
+- **Appropriateness for Audience**: Is the user interface visually appealing without being too busy or too simple for the intended audience? 👀
+- **Aesthetic Quality**: Is the overall design aesthetically pleasing? 🌟
